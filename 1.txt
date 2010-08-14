@@ -1,0 +1,4 @@
+One commit,
+some
+lines
+are added
